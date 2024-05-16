@@ -31,7 +31,9 @@ Please refer to [MMsegmentation](https://mmsegmentation.readthedocs.io/en/latest
 
 ## Result
 ### Quantitative Results
-![image]()
+![image](https://github.com/CanZhang01/ASA/blob/main/Table%201.png)
+![image](https://github.com/CanZhang01/ASA/blob/main/Table%202.png)
+![image](https://github.com/CanZhang01/ASA/blob/main/Table%203.png)
 ### Qualitative Results
 <div align=center><img src="https://github.com/CanZhang01/ASA/blob/main/Fig.4.png"/></div>
 <div align=center><img src="https://github.com/CanZhang01/ASA/blob/main/Fig.3.png"/></div>
