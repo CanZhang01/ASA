@@ -24,6 +24,8 @@ Our contributions are as follows:
 2) We propose an adaptive sparse attention (ASA) module. Its similarity matrix is obtained via two designed blocks: NLSCB and LSCB. The former utilizes A-RNN to sparsify non-local information, while the latter sparsifies local information with adaptive thresholds.
 3) Preliminary experiments on semantic segmentation validate the effectiveness of the proposed ASA module.
 
+<div align=center><img src="https://github.com/CanZhang01/ASA/blob/main/Fig.2.png"/></div>
+
 ## Usage
 Please refer to [MMsegmentation](https://mmsegmentation.readthedocs.io/en/latest/) help documentation.
 
@@ -31,7 +33,8 @@ Please refer to [MMsegmentation](https://mmsegmentation.readthedocs.io/en/latest
 ### Quantitative Results
 ![image]()
 ### Qualitative Results
-<div align=center><img src=""/></div>
+<div align=center><img src="https://github.com/CanZhang01/ASA/blob/main/Fig.3.png"/></div>
+<div align=center><img src="https://github.com/CanZhang01/ASA/blob/main/Fig.4.png"/></div>
 
 ## Acknowledgments
 The authors would like to express their great thankfulness to the Associate Editor and the anonymous reviewers for their valuable comments and constructive suggestions. At the same time, they would like to express their sincere gratitude to the open-source semantic segmentation library MMSegmentation from openmmlab.
