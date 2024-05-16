@@ -1,5 +1,6 @@
 # Adaptive sparse attention module based on reciprocal nearest neighbors
 Zhonggui Sun, Can Zhang, Mingzhu Zhang.
+
 submitted to Journal of Electronic Imaging (JEI).
 
 This code is based on the [MMsegmentation](https://github.com/open-mmlab/mmsegmentation) from [OpenMMlab](https://openmmlab.com/) 
