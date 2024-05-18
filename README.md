@@ -38,5 +38,5 @@ Please refer to [MMsegmentation](https://mmsegmentation.readthedocs.io/en/latest
 ...to be continued after being accepted
 
 
-## Acknowledgments
+## Acknowledgments :heart:
 The authors would like to express their great thankfulness to the Associate Editor and the anonymous reviewers for their valuable comments and constructive suggestions. At the same time, they would like to express their sincere gratitude to the open-source semantic segmentation library MMSegmentation from openmmlab.
