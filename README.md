@@ -42,9 +42,5 @@ Please refer to [MMsegmentation](https://github.com/open-mmlab/mmsegmentation/tr
 <div align=center><img src="https://github.com/CanZhang01/ASA/blob/main/Fig.6.png"/></div>
 
 
-<<<<<<< HEAD
-
-=======
->>>>>>> f1b1fcc82cc83f6947995c5b70308ba3ffb7f6cf
 ## Acknowledgments :heart:
 The authors would like to express their great thankfulness to the Associate Editor and the anonymous reviewers for their valuable comments and constructive suggestions. At the same time, they would like to express their sincere gratitude to the open-source semantic segmentation library MMSegmentation from openmmlab.
